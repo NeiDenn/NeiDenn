@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @Neiser
+
+- George Washington
+* John Adams
++ Thomas Jefferson
