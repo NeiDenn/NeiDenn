@@ -2,4 +2,4 @@
 
 - 😺 Permítanme presentarles sobre mí, mi nombre es Neiser.
 * 👀 Me interesa aprender y contribuir.
-+ 🌱 Actualmente estoy aprendiendo Spring.
++ 🌱 Actualmente estoy aprendiendo Kotlin.
